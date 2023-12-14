@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a963912a536c110499c48dc92366e8ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ball: {fileID: 519185141184623901, guid: 6ade4c74d84a6b946a110f43304ad23e, type: 3}
+  - player1Paddle: {fileID: 2064278127443659404, guid: ad832f02090d1eb4295caf29f8aa1c93, type: 3}
+  - player1Goal: {fileID: 8351046529745867913, guid: aa61de22358d72d41ad29137d07c34e4, type: 3}
+  - player2Paddle: {fileID: 8124094795341954854, guid: be951436337adda40a030558c195352f, type: 3}
+  - player2Goal: {fileID: 4269995812756234614, guid: f4fca53a044922141a80a742aca86a41, type: 3}
+  - Player1Text: {fileID: 7198329022763532267, guid: 2b4d094efc418524ba3fde10ac26890a, type: 3}
+  - Player2Text: {fileID: 5750875076630499316, guid: 428931cf2e860bd45b804b5f71cd2523, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
